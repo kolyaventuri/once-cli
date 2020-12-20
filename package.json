@@ -1,5 +1,5 @@
 {
-  "name": "once-cli",
+  "name": "once-sh",
   "version": "0.0.0",
   "description": "CLI for Once.sh",
   "main": "index.js",

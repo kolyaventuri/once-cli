@@ -1,0 +1,24 @@
+{
+  "name": "once-cli",
+  "version": "0.0.0",
+  "description": "CLI for Once.sh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolyaventuri/once-cli.git"
+  },
+  "keywords": [
+    "once",
+    "oncesh",
+    "secret"
+  ],
+  "author": "Kolya Venturi <me@kolya.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolyaventuri/once-cli/issues"
+  },
+  "homepage": "https://github.com/kolyaventuri/once-cli#readme"
+}
